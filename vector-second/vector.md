@@ -1,10 +1,12 @@
 # Exercices
 
 ### 1. **Addition de Vecteurs**
-   - Soit les vecteurs
+   - Soit les vecteurs :
+     
 $$\vec{u} = \begin{pmatrix} 3 \\ 2 \end{pmatrix}$$
 
 $$\vec{v} = \begin{pmatrix} -1 \\ 5 \end{pmatrix}$$
+
    - Calcule le vecteur $$\vec{w} = \vec{u} + \vec{v}$$.
 
 ### 2. **Coordonnées d'un Vecteur**
