@@ -33,10 +33,17 @@ $$\vec{u} = \begin{pmatrix} 2 \\ 4 \end{pmatrix}$$
 
 $$\vec{v} = \begin{pmatrix} 3 \\ 6 \end{pmatrix}$$
 
-   - Les vecteurs $$\vec{u}$$ et $$\vec{v}$$ sont-ils colinéaires ? Justifie ta réponse.
+   - Les vecteurs
+     
+$$\vec{u}$$
+
+$$\vec{v}$$ 
+
+sont-ils colinéaires ? Justifie ta réponse.
 
 ### 6. **Vecteur Opposé**
    - Soit le vecteur
+     
 $$\vec{a} = \begin{pmatrix} -3 \\ 7 \end{pmatrix}$$
 
    - Trouve le vecteur opposé de $$\vec{a}$$.
