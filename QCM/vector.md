@@ -25,11 +25,7 @@ Deux vecteurs $\vec{u}$ et $\vec{v}$ sont égaux si :
 ## Question 3 : Norme d’un vecteur
 
 Quelle est la norme de $\overrightarrow{AB}(3, 4)$ ?
-$$
-\[
-||\overrightarrow{AB}|| = \sqrt{x^2 + y^2}
-\]
-$$
+$||\overrightarrow{AB}|| = \sqrt{x^2 + y^2}$
 - a) $5$
 - b) $7$
 - c) $\sqrt{9 + 16}$
