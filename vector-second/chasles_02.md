@@ -8,13 +8,7 @@ Appliquons la relation de Chasles :
 
 $$
 \overrightarrow{AB} + \overrightarrow{BC} = \overrightarrow{AC}, \quad \overrightarrow{CD} + \overrightarrow{DA} = \overrightarrow{CA}.
-$$  
-
-Ainsi :  
-
-$$
-\overrightarrow{AB} + \overrightarrow{BC} + \overrightarrow{CD} + \overrightarrow{DA} = \overrightarrow{AC} + \overrightarrow{CA}.
-$$  
+$$   
 
 Or, 
 $$
