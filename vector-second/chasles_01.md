@@ -1,4 +1,6 @@
 
+# Mettre les flèches au-dessus 
+
 **1. AP + PB = AB**  
 - En utilisant la relation de Chasles, montrez que $AP + PB = AB$.  
 ---  
@@ -62,10 +64,10 @@
 
 ---
 
-**3. PQ + QR - RP = 0**  
+**3. PQ + QR + RP = 0**  
 - Montrez que la somme des vecteurs formant un triangle fermé est nulle.  
 - Démonstration :  
-  $PQ + QR - RP = PQ + QR + PR = PR + PR = PP = 0$.  
+  $PQ + QR + RP = PQ + QR + PR = PR + PR = PP = 0$.  
 
 ---
 
